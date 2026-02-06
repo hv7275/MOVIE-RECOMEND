@@ -1,0 +1,13 @@
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Cache files
+.cache/
+node_modules/
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
